@@ -1,3 +1,38 @@
+## [1.1.5](https://github.com/idaho/eslint-config-idaho1980/compare/1.1.4...1.1.5) (2021-08-31)
+
+
+### Bug Fixes
+
+* bump @typescript-eslint/parser from 4.25.0 to 4.30.0 ([#157](https://github.com/idaho/eslint-config-idaho1980/issues/157)) ([0a15116](https://github.com/idaho/eslint-config-idaho1980/commit/0a1511656a497fd49f334b981b92872395eeb0ee))
+
+## [1.1.4](https://github.com/idaho/eslint-config-idaho1980/compare/1.1.3...1.1.4) (2021-08-31)
+
+
+### Bug Fixes
+
+* bump eslint-plugin-react from 7.24.0 to 7.25.1 ([#167](https://github.com/idaho/eslint-config-idaho1980/issues/167)) ([80121f0](https://github.com/idaho/eslint-config-idaho1980/commit/80121f0b25ca335194938fb6a0b1087345b06f90))
+
+## [1.1.3](https://github.com/idaho/eslint-config-idaho1980/compare/1.1.2...1.1.3) (2021-08-31)
+
+
+### Bug Fixes
+
+* bump eslint-plugin-jest from 24.3.6 to 24.4.0 ([#162](https://github.com/idaho/eslint-config-idaho1980/issues/162)) ([04a1d46](https://github.com/idaho/eslint-config-idaho1980/commit/04a1d46018861a25cbce478b8879063e9d1736a2))
+
+## [1.1.2](https://github.com/idaho/eslint-config-idaho1980/compare/1.1.1...1.1.2) (2021-08-31)
+
+
+### Bug Fixes
+
+* bump eslint-plugin-unicorn from 32.0.1 to 33.0.1 ([#104](https://github.com/idaho/eslint-config-idaho1980/issues/104)) ([ff0e2fb](https://github.com/idaho/eslint-config-idaho1980/commit/ff0e2fbaa6824a6eb2bc15976c3e7d1d28ed382b))
+
+## [1.1.1](https://github.com/idaho/eslint-config-idaho1980/compare/1.1.0...1.1.1) (2021-08-31)
+
+
+### Bug Fixes
+
+* bump eslint-plugin-json from 3.0.0 to 3.1.0 ([#161](https://github.com/idaho/eslint-config-idaho1980/issues/161)) ([7f30e41](https://github.com/idaho/eslint-config-idaho1980/commit/7f30e418679ace24d0be0d5cc31d0336d65ad554))
+
 # [1.1.0](https://github.com/idaho/eslint-config-idaho1980/compare/1.0.44...1.1.0) (2021-05-31)
 
 
